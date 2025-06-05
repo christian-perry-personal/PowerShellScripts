@@ -1,0 +1,1 @@
+This folder contains scripts that are intended to be uploaded as detection and remediation scripts in Intune.
