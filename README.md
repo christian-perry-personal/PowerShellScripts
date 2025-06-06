@@ -10,6 +10,8 @@ This repository includes:
 
   •	Remediation Scripts
 
+  • Unpackaged Win32 Applications
+
   •	Application Detection Scripts
 
   •	General User Management Scripts
