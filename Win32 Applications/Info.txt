@@ -1,0 +1,1 @@
+Folders here will need to be packaged by the IntuneContentTool provided by Microsoft. No IntuneWin files will be uploaded to this directory.
