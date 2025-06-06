@@ -1,6 +1,0 @@
-Package the WallpaperInstall.ps1 file as a Win32 app with the IntuneContentTool provided by Microsoft.
-Your Background.jpg file and the DesktopBackground.ps1 file must be in the same folder as the WallpaperInstall.ps1 file when packaging so that they are included with in the .IntuneWin package that will be uploaded to Intune.
-
-Example:
-File path for packaging: C:\IntuneContentTool\Wallpaper\Input\
-Files in Input folder: WallpaperInstall.ps1, DesktopBackground.ps1, and Background.jpg
