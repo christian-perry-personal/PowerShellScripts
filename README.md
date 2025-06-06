@@ -20,7 +20,7 @@ Each script is named after its purpose, and each function is documented in the s
 
 __________________________________________________________
 
-Prerequisites
+✔️ Prerequisites
  
   •	Intune Administrator access
 
