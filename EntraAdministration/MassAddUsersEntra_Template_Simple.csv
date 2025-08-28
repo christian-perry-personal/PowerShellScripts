@@ -1,0 +1,6 @@
+UserPrincipalName,DisplayName,GivenName,Surname,UsageLocation,Password
+jdoe@contoso.com,John Doe,John,Doe,US,
+asmith@contoso.com,Alice Smith,Alice,Smith,US,
+bking@contoso.com,Bob King,Bob,King,US,
+cwhite@contoso.com,Carol White,Carol,White,US,
+dlee@contoso.com,David Lee,David,Lee,US,
