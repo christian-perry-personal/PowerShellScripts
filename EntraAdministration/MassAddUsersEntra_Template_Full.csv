@@ -1,0 +1,2 @@
+UserPrincipalName,DisplayName,GivenName,Surname,MailNickname,UsageLocation,Password,ForcePasswordChange,AccountEnabled,JobTitle,Department,StreetAddress,City,State,PostalCode,Country,MobilePhone,OfficePhone,EmployeeId,ManagerUPN,GroupObjectIds,LicenseSkuPartNumbers
+alex.renner@contoso.com,Alex Renner,Alex,Renner,alex.renner,US,P@ssw0rd123!,TRUE,TRUE,IT Support,IT,,,,,US,,,E12345,manager1@contoso.com,,ENTERPRISEPACK;EMS
